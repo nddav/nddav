@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 5th year student in IT engineering
 ----------------------------------
 
-After getting my first computer at 17 years old, I immediatly became captivated by coding and all the things that you could from your own little computer ! That's why after going to preparatory school in France, I decided to do IT engineering. I speak french, english, portuguese and I'm also learning spanish and italian.
+After getting my first computer at 17 years old, I immediatly became captivated by coding and all the things that you could from your own little computer ! That's why after going to preparatory school in France, I decided to do IT engineering. I speak french, english, portuguese and I'm also learning spanish and italian. I am always trying to step out of my confort zone to gain more experience and learn. I am passionate about cybersecurity and all the topics surrounding it, that is why I am specializing on cybersecurity on my final year. 
 
 * 🌍  I'm based in Bordeaux, France
 * 🧠  I'm learning JavaScript
